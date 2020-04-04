@@ -23,7 +23,7 @@
   $ cd ../../
   $ npm start
 ```
-![Obter token](https://github.com/pricardoti/sequelize-basic-examples/blob/master/img/img03.png)
+![Obter token](https://github.com/pricardoti/sequelize-basic-examples/blob/master/img/img02.png)
 
 ---
 #### Aaaah, se curtiu, não esquece de deixar a :star:
