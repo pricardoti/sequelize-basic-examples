@@ -1,7 +1,10 @@
 
-# Exemplos Básicos de execução do Sequelie
+# Exemplos Básicos de execução do Sequelize
 
-> Projeto feito usando NodeJS + Sequelize (Migrations e Seeders), sem frontend. Portanto, toda a interação com o usuário é via terminal.
+*Projeto para prática (laboratório) utilizando NodeJS e Sequelize, sem frontend. Portanto, toda a interação com o usuário é via terminal.*
+
+- Migrations
+- Seeders
 
 ## Instruções
 
